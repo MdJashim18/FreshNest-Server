@@ -1,0 +1,2202 @@
+[
+  {
+    "name": "Deshi Murgi - Cut 1",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deshi Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 500,
+    "stock_quantity": 20,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Deshi Murgi - Cut 1, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 1A",
+          "email": "customer1a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Deshi Murgi - Cut 1"
+        },
+        {
+          "name": "Customer 1B",
+          "email": "customer1b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Deshi Murgi - Cut 1"
+        }
+      ]
+    },
+    "images": [
+      "deshi_murgi_-_cut_1_img2.jpg",
+      "deshi_murgi_-_cut_1_img3.jpg",
+      "deshi_murgi_-_cut_1_img4.jpg"
+    ]
+  },
+  {
+    "name": "Broiler Murgi - Cut 2",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Broiler Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 510,
+    "stock_quantity": 25,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Broiler Murgi - Cut 2, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 2A",
+          "email": "customer2a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Broiler Murgi - Cut 2"
+        },
+        {
+          "name": "Customer 2B",
+          "email": "customer2b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Broiler Murgi - Cut 2"
+        }
+      ]
+    },
+    "images": [
+      "broiler_murgi_-_cut_2_img2.jpg",
+      "broiler_murgi_-_cut_2_img3.jpg",
+      "broiler_murgi_-_cut_2_img4.jpg"
+    ]
+  },
+  {
+    "name": "Shonali Murgi - Cut 3",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Shonali Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 520,
+    "stock_quantity": 30,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Shonali Murgi - Cut 3, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 3A",
+          "email": "customer3a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Shonali Murgi - Cut 3"
+        },
+        {
+          "name": "Customer 3B",
+          "email": "customer3b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Shonali Murgi - Cut 3"
+        }
+      ]
+    },
+    "images": [
+      "shonali_murgi_-_cut_3_img2.jpg",
+      "shonali_murgi_-_cut_3_img3.jpg",
+      "shonali_murgi_-_cut_3_img4.jpg"
+    ]
+  },
+  {
+    "name": "Hash - Cut 4",
+    "type": "Duck",
+    "cut_type": "Curry Cut",
+    "animal_source": "Duck",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 530,
+    "stock_quantity": 35,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Hash - Cut 4, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 4A",
+          "email": "customer4a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Hash - Cut 4"
+        },
+        {
+          "name": "Customer 4B",
+          "email": "customer4b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Hash - Cut 4"
+        }
+      ]
+    },
+    "images": [
+      "hash_-_cut_4_img2.jpg",
+      "hash_-_cut_4_img3.jpg",
+      "hash_-_cut_4_img4.jpg"
+    ]
+  },
+  {
+    "name": "Koel Pakhi - Cut 5",
+    "type": "Bird",
+    "cut_type": "Whole",
+    "animal_source": "Quail",
+    "weight_unit": "piece",
+    "min_order": 1,
+    "price_per_unit": 540,
+    "stock_quantity": 40,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Box",
+    "origin": "Local Farm",
+    "preservation": "Fresh",
+    "expiry_days": 2,
+    "description": "This is a detailed 200-word description for Koel Pakhi - Cut 5, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 5A",
+          "email": "customer5a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Koel Pakhi - Cut 5"
+        },
+        {
+          "name": "Customer 5B",
+          "email": "customer5b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Koel Pakhi - Cut 5"
+        }
+      ]
+    },
+    "images": [
+      "koel_pakhi_-_cut_5_img2.jpg",
+      "koel_pakhi_-_cut_5_img3.jpg",
+      "koel_pakhi_-_cut_5_img4.jpg"
+    ]
+  },
+  {
+    "name": "Goru Mangsho - Cut 6",
+    "type": "Beef",
+    "cut_type": "Curry Cut",
+    "animal_source": "Cow",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 550,
+    "stock_quantity": 45,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Goru Mangsho - Cut 6, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 6A",
+          "email": "customer6a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Goru Mangsho - Cut 6"
+        },
+        {
+          "name": "Customer 6B",
+          "email": "customer6b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Goru Mangsho - Cut 6"
+        }
+      ]
+    },
+    "images": [
+      "goru_mangsho_-_cut_6_img2.jpg",
+      "goru_mangsho_-_cut_6_img3.jpg",
+      "goru_mangsho_-_cut_6_img4.jpg"
+    ]
+  },
+  {
+    "name": "Khashi Mangsho - Cut 7",
+    "type": "Mutton",
+    "cut_type": "Curry Cut",
+    "animal_source": "Goat",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 560,
+    "stock_quantity": 50,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Khashi Mangsho - Cut 7, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 7A",
+          "email": "customer7a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Khashi Mangsho - Cut 7"
+        },
+        {
+          "name": "Customer 7B",
+          "email": "customer7b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Khashi Mangsho - Cut 7"
+        }
+      ]
+    },
+    "images": [
+      "khashi_mangsho_-_cut_7_img2.jpg",
+      "khashi_mangsho_-_cut_7_img3.jpg",
+      "khashi_mangsho_-_cut_7_img4.jpg"
+    ]
+  },
+  {
+    "name": "Beda Mangsho - Cut 8",
+    "type": "Sheep",
+    "cut_type": "Curry Cut",
+    "animal_source": "Sheep",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 570,
+    "stock_quantity": 55,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Beda Mangsho - Cut 8, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 8A",
+          "email": "customer8a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Beda Mangsho - Cut 8"
+        },
+        {
+          "name": "Customer 8B",
+          "email": "customer8b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Beda Mangsho - Cut 8"
+        }
+      ]
+    },
+    "images": [
+      "beda_mangsho_-_cut_8_img2.jpg",
+      "beda_mangsho_-_cut_8_img3.jpg",
+      "beda_mangsho_-_cut_8_img4.jpg"
+    ]
+  },
+  {
+    "name": "Mohish Mangsho - Cut 9",
+    "type": "Buffalo",
+    "cut_type": "Curry Cut",
+    "animal_source": "Buffalo",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 580,
+    "stock_quantity": 60,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Mohish Mangsho - Cut 9, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 9A",
+          "email": "customer9a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Mohish Mangsho - Cut 9"
+        },
+        {
+          "name": "Customer 9B",
+          "email": "customer9b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Mohish Mangsho - Cut 9"
+        }
+      ]
+    },
+    "images": [
+      "mohish_mangsho_-_cut_9_img2.jpg",
+      "mohish_mangsho_-_cut_9_img3.jpg",
+      "mohish_mangsho_-_cut_9_img4.jpg"
+    ]
+  },
+  {
+    "name": "Horin Mangsho - Cut 10",
+    "type": "Venison",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deer",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 590,
+    "stock_quantity": 65,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Horin Mangsho - Cut 10, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 10A",
+          "email": "customer10a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Horin Mangsho - Cut 10"
+        },
+        {
+          "name": "Customer 10B",
+          "email": "customer10b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Horin Mangsho - Cut 10"
+        }
+      ]
+    },
+    "images": [
+      "horin_mangsho_-_cut_10_img2.jpg",
+      "horin_mangsho_-_cut_10_img3.jpg",
+      "horin_mangsho_-_cut_10_img4.jpg"
+    ]
+  },
+  {
+    "name": "Deshi Murgi - Cut 11",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deshi Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 600,
+    "stock_quantity": 70,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Deshi Murgi - Cut 11, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 11A",
+          "email": "customer11a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Deshi Murgi - Cut 11"
+        },
+        {
+          "name": "Customer 11B",
+          "email": "customer11b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Deshi Murgi - Cut 11"
+        }
+      ]
+    },
+    "images": [
+      "deshi_murgi_-_cut_11_img2.jpg",
+      "deshi_murgi_-_cut_11_img3.jpg",
+      "deshi_murgi_-_cut_11_img4.jpg"
+    ]
+  },
+  {
+    "name": "Broiler Murgi - Cut 12",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Broiler Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 610,
+    "stock_quantity": 75,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Broiler Murgi - Cut 12, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 12A",
+          "email": "customer12a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Broiler Murgi - Cut 12"
+        },
+        {
+          "name": "Customer 12B",
+          "email": "customer12b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Broiler Murgi - Cut 12"
+        }
+      ]
+    },
+    "images": [
+      "broiler_murgi_-_cut_12_img2.jpg",
+      "broiler_murgi_-_cut_12_img3.jpg",
+      "broiler_murgi_-_cut_12_img4.jpg"
+    ]
+  },
+  {
+    "name": "Shonali Murgi - Cut 13",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Shonali Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 620,
+    "stock_quantity": 80,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Shonali Murgi - Cut 13, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 13A",
+          "email": "customer13a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Shonali Murgi - Cut 13"
+        },
+        {
+          "name": "Customer 13B",
+          "email": "customer13b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Shonali Murgi - Cut 13"
+        }
+      ]
+    },
+    "images": [
+      "shonali_murgi_-_cut_13_img2.jpg",
+      "shonali_murgi_-_cut_13_img3.jpg",
+      "shonali_murgi_-_cut_13_img4.jpg"
+    ]
+  },
+  {
+    "name": "Hash - Cut 14",
+    "type": "Duck",
+    "cut_type": "Curry Cut",
+    "animal_source": "Duck",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 630,
+    "stock_quantity": 85,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Hash - Cut 14, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 14A",
+          "email": "customer14a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Hash - Cut 14"
+        },
+        {
+          "name": "Customer 14B",
+          "email": "customer14b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Hash - Cut 14"
+        }
+      ]
+    },
+    "images": [
+      "hash_-_cut_14_img2.jpg",
+      "hash_-_cut_14_img3.jpg",
+      "hash_-_cut_14_img4.jpg"
+    ]
+  },
+  {
+    "name": "Koel Pakhi - Cut 15",
+    "type": "Bird",
+    "cut_type": "Whole",
+    "animal_source": "Quail",
+    "weight_unit": "piece",
+    "min_order": 1,
+    "price_per_unit": 640,
+    "stock_quantity": 90,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Box",
+    "origin": "Local Farm",
+    "preservation": "Fresh",
+    "expiry_days": 2,
+    "description": "This is a detailed 200-word description for Koel Pakhi - Cut 15, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 15A",
+          "email": "customer15a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Koel Pakhi - Cut 15"
+        },
+        {
+          "name": "Customer 15B",
+          "email": "customer15b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Koel Pakhi - Cut 15"
+        }
+      ]
+    },
+    "images": [
+      "koel_pakhi_-_cut_15_img2.jpg",
+      "koel_pakhi_-_cut_15_img3.jpg",
+      "koel_pakhi_-_cut_15_img4.jpg"
+    ]
+  },
+  {
+    "name": "Goru Mangsho - Cut 16",
+    "type": "Beef",
+    "cut_type": "Curry Cut",
+    "animal_source": "Cow",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 650,
+    "stock_quantity": 95,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Goru Mangsho - Cut 16, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 16A",
+          "email": "customer16a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Goru Mangsho - Cut 16"
+        },
+        {
+          "name": "Customer 16B",
+          "email": "customer16b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Goru Mangsho - Cut 16"
+        }
+      ]
+    },
+    "images": [
+      "goru_mangsho_-_cut_16_img2.jpg",
+      "goru_mangsho_-_cut_16_img3.jpg",
+      "goru_mangsho_-_cut_16_img4.jpg"
+    ]
+  },
+  {
+    "name": "Khashi Mangsho - Cut 17",
+    "type": "Mutton",
+    "cut_type": "Curry Cut",
+    "animal_source": "Goat",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 660,
+    "stock_quantity": 100,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Khashi Mangsho - Cut 17, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 17A",
+          "email": "customer17a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Khashi Mangsho - Cut 17"
+        },
+        {
+          "name": "Customer 17B",
+          "email": "customer17b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Khashi Mangsho - Cut 17"
+        }
+      ]
+    },
+    "images": [
+      "khashi_mangsho_-_cut_17_img2.jpg",
+      "khashi_mangsho_-_cut_17_img3.jpg",
+      "khashi_mangsho_-_cut_17_img4.jpg"
+    ]
+  },
+  {
+    "name": "Beda Mangsho - Cut 18",
+    "type": "Sheep",
+    "cut_type": "Curry Cut",
+    "animal_source": "Sheep",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 670,
+    "stock_quantity": 105,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Beda Mangsho - Cut 18, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 18A",
+          "email": "customer18a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Beda Mangsho - Cut 18"
+        },
+        {
+          "name": "Customer 18B",
+          "email": "customer18b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Beda Mangsho - Cut 18"
+        }
+      ]
+    },
+    "images": [
+      "beda_mangsho_-_cut_18_img2.jpg",
+      "beda_mangsho_-_cut_18_img3.jpg",
+      "beda_mangsho_-_cut_18_img4.jpg"
+    ]
+  },
+  {
+    "name": "Mohish Mangsho - Cut 19",
+    "type": "Buffalo",
+    "cut_type": "Curry Cut",
+    "animal_source": "Buffalo",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 680,
+    "stock_quantity": 110,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Mohish Mangsho - Cut 19, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 19A",
+          "email": "customer19a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Mohish Mangsho - Cut 19"
+        },
+        {
+          "name": "Customer 19B",
+          "email": "customer19b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Mohish Mangsho - Cut 19"
+        }
+      ]
+    },
+    "images": [
+      "mohish_mangsho_-_cut_19_img2.jpg",
+      "mohish_mangsho_-_cut_19_img3.jpg",
+      "mohish_mangsho_-_cut_19_img4.jpg"
+    ]
+  },
+  {
+    "name": "Horin Mangsho - Cut 20",
+    "type": "Venison",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deer",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 690,
+    "stock_quantity": 115,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Horin Mangsho - Cut 20, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 20A",
+          "email": "customer20a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Horin Mangsho - Cut 20"
+        },
+        {
+          "name": "Customer 20B",
+          "email": "customer20b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Horin Mangsho - Cut 20"
+        }
+      ]
+    },
+    "images": [
+      "horin_mangsho_-_cut_20_img2.jpg",
+      "horin_mangsho_-_cut_20_img3.jpg",
+      "horin_mangsho_-_cut_20_img4.jpg"
+    ]
+  },
+  {
+    "name": "Deshi Murgi - Cut 21",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deshi Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 700,
+    "stock_quantity": 120,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Deshi Murgi - Cut 21, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 21A",
+          "email": "customer21a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Deshi Murgi - Cut 21"
+        },
+        {
+          "name": "Customer 21B",
+          "email": "customer21b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Deshi Murgi - Cut 21"
+        }
+      ]
+    },
+    "images": [
+      "deshi_murgi_-_cut_21_img2.jpg",
+      "deshi_murgi_-_cut_21_img3.jpg",
+      "deshi_murgi_-_cut_21_img4.jpg"
+    ]
+  },
+  {
+    "name": "Broiler Murgi - Cut 22",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Broiler Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 710,
+    "stock_quantity": 125,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Broiler Murgi - Cut 22, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 22A",
+          "email": "customer22a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Broiler Murgi - Cut 22"
+        },
+        {
+          "name": "Customer 22B",
+          "email": "customer22b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Broiler Murgi - Cut 22"
+        }
+      ]
+    },
+    "images": [
+      "broiler_murgi_-_cut_22_img2.jpg",
+      "broiler_murgi_-_cut_22_img3.jpg",
+      "broiler_murgi_-_cut_22_img4.jpg"
+    ]
+  },
+  {
+    "name": "Shonali Murgi - Cut 23",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Shonali Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 720,
+    "stock_quantity": 130,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Shonali Murgi - Cut 23, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 23A",
+          "email": "customer23a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Shonali Murgi - Cut 23"
+        },
+        {
+          "name": "Customer 23B",
+          "email": "customer23b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Shonali Murgi - Cut 23"
+        }
+      ]
+    },
+    "images": [
+      "shonali_murgi_-_cut_23_img2.jpg",
+      "shonali_murgi_-_cut_23_img3.jpg",
+      "shonali_murgi_-_cut_23_img4.jpg"
+    ]
+  },
+  {
+    "name": "Hash - Cut 24",
+    "type": "Duck",
+    "cut_type": "Curry Cut",
+    "animal_source": "Duck",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 730,
+    "stock_quantity": 135,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Hash - Cut 24, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 24A",
+          "email": "customer24a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Hash - Cut 24"
+        },
+        {
+          "name": "Customer 24B",
+          "email": "customer24b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Hash - Cut 24"
+        }
+      ]
+    },
+    "images": [
+      "hash_-_cut_24_img2.jpg",
+      "hash_-_cut_24_img3.jpg",
+      "hash_-_cut_24_img4.jpg"
+    ]
+  },
+  {
+    "name": "Koel Pakhi - Cut 25",
+    "type": "Bird",
+    "cut_type": "Whole",
+    "animal_source": "Quail",
+    "weight_unit": "piece",
+    "min_order": 1,
+    "price_per_unit": 740,
+    "stock_quantity": 140,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Box",
+    "origin": "Local Farm",
+    "preservation": "Fresh",
+    "expiry_days": 2,
+    "description": "This is a detailed 200-word description for Koel Pakhi - Cut 25, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 25A",
+          "email": "customer25a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Koel Pakhi - Cut 25"
+        },
+        {
+          "name": "Customer 25B",
+          "email": "customer25b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Koel Pakhi - Cut 25"
+        }
+      ]
+    },
+    "images": [
+      "koel_pakhi_-_cut_25_img2.jpg",
+      "koel_pakhi_-_cut_25_img3.jpg",
+      "koel_pakhi_-_cut_25_img4.jpg"
+    ]
+  },
+  {
+    "name": "Goru Mangsho - Cut 26",
+    "type": "Beef",
+    "cut_type": "Curry Cut",
+    "animal_source": "Cow",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 750,
+    "stock_quantity": 145,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Goru Mangsho - Cut 26, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 26A",
+          "email": "customer26a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Goru Mangsho - Cut 26"
+        },
+        {
+          "name": "Customer 26B",
+          "email": "customer26b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Goru Mangsho - Cut 26"
+        }
+      ]
+    },
+    "images": [
+      "goru_mangsho_-_cut_26_img2.jpg",
+      "goru_mangsho_-_cut_26_img3.jpg",
+      "goru_mangsho_-_cut_26_img4.jpg"
+    ]
+  },
+  {
+    "name": "Khashi Mangsho - Cut 27",
+    "type": "Mutton",
+    "cut_type": "Curry Cut",
+    "animal_source": "Goat",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 760,
+    "stock_quantity": 150,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Khashi Mangsho - Cut 27, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 27A",
+          "email": "customer27a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Khashi Mangsho - Cut 27"
+        },
+        {
+          "name": "Customer 27B",
+          "email": "customer27b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Khashi Mangsho - Cut 27"
+        }
+      ]
+    },
+    "images": [
+      "khashi_mangsho_-_cut_27_img2.jpg",
+      "khashi_mangsho_-_cut_27_img3.jpg",
+      "khashi_mangsho_-_cut_27_img4.jpg"
+    ]
+  },
+  {
+    "name": "Beda Mangsho - Cut 28",
+    "type": "Sheep",
+    "cut_type": "Curry Cut",
+    "animal_source": "Sheep",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 770,
+    "stock_quantity": 155,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Beda Mangsho - Cut 28, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 28A",
+          "email": "customer28a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Beda Mangsho - Cut 28"
+        },
+        {
+          "name": "Customer 28B",
+          "email": "customer28b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Beda Mangsho - Cut 28"
+        }
+      ]
+    },
+    "images": [
+      "beda_mangsho_-_cut_28_img2.jpg",
+      "beda_mangsho_-_cut_28_img3.jpg",
+      "beda_mangsho_-_cut_28_img4.jpg"
+    ]
+  },
+  {
+    "name": "Mohish Mangsho - Cut 29",
+    "type": "Buffalo",
+    "cut_type": "Curry Cut",
+    "animal_source": "Buffalo",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 780,
+    "stock_quantity": 160,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Mohish Mangsho - Cut 29, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 29A",
+          "email": "customer29a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Mohish Mangsho - Cut 29"
+        },
+        {
+          "name": "Customer 29B",
+          "email": "customer29b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Mohish Mangsho - Cut 29"
+        }
+      ]
+    },
+    "images": [
+      "mohish_mangsho_-_cut_29_img2.jpg",
+      "mohish_mangsho_-_cut_29_img3.jpg",
+      "mohish_mangsho_-_cut_29_img4.jpg"
+    ]
+  },
+  {
+    "name": "Horin Mangsho - Cut 30",
+    "type": "Venison",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deer",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 790,
+    "stock_quantity": 165,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Horin Mangsho - Cut 30, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 30A",
+          "email": "customer30a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Horin Mangsho - Cut 30"
+        },
+        {
+          "name": "Customer 30B",
+          "email": "customer30b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Horin Mangsho - Cut 30"
+        }
+      ]
+    },
+    "images": [
+      "horin_mangsho_-_cut_30_img2.jpg",
+      "horin_mangsho_-_cut_30_img3.jpg",
+      "horin_mangsho_-_cut_30_img4.jpg"
+    ]
+  },
+  {
+    "name": "Deshi Murgi - Cut 31",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deshi Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 800,
+    "stock_quantity": 170,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Deshi Murgi - Cut 31, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 31A",
+          "email": "customer31a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Deshi Murgi - Cut 31"
+        },
+        {
+          "name": "Customer 31B",
+          "email": "customer31b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Deshi Murgi - Cut 31"
+        }
+      ]
+    },
+    "images": [
+      "deshi_murgi_-_cut_31_img2.jpg",
+      "deshi_murgi_-_cut_31_img3.jpg",
+      "deshi_murgi_-_cut_31_img4.jpg"
+    ]
+  },
+  {
+    "name": "Broiler Murgi - Cut 32",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Broiler Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 810,
+    "stock_quantity": 175,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Broiler Murgi - Cut 32, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 32A",
+          "email": "customer32a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Broiler Murgi - Cut 32"
+        },
+        {
+          "name": "Customer 32B",
+          "email": "customer32b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Broiler Murgi - Cut 32"
+        }
+      ]
+    },
+    "images": [
+      "broiler_murgi_-_cut_32_img2.jpg",
+      "broiler_murgi_-_cut_32_img3.jpg",
+      "broiler_murgi_-_cut_32_img4.jpg"
+    ]
+  },
+  {
+    "name": "Shonali Murgi - Cut 33",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Shonali Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 820,
+    "stock_quantity": 180,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Shonali Murgi - Cut 33, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 33A",
+          "email": "customer33a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Shonali Murgi - Cut 33"
+        },
+        {
+          "name": "Customer 33B",
+          "email": "customer33b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Shonali Murgi - Cut 33"
+        }
+      ]
+    },
+    "images": [
+      "shonali_murgi_-_cut_33_img2.jpg",
+      "shonali_murgi_-_cut_33_img3.jpg",
+      "shonali_murgi_-_cut_33_img4.jpg"
+    ]
+  },
+  {
+    "name": "Hash - Cut 34",
+    "type": "Duck",
+    "cut_type": "Curry Cut",
+    "animal_source": "Duck",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 830,
+    "stock_quantity": 185,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Hash - Cut 34, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 34A",
+          "email": "customer34a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Hash - Cut 34"
+        },
+        {
+          "name": "Customer 34B",
+          "email": "customer34b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Hash - Cut 34"
+        }
+      ]
+    },
+    "images": [
+      "hash_-_cut_34_img2.jpg",
+      "hash_-_cut_34_img3.jpg",
+      "hash_-_cut_34_img4.jpg"
+    ]
+  },
+  {
+    "name": "Koel Pakhi - Cut 35",
+    "type": "Bird",
+    "cut_type": "Whole",
+    "animal_source": "Quail",
+    "weight_unit": "piece",
+    "min_order": 1,
+    "price_per_unit": 840,
+    "stock_quantity": 190,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Box",
+    "origin": "Local Farm",
+    "preservation": "Fresh",
+    "expiry_days": 2,
+    "description": "This is a detailed 200-word description for Koel Pakhi - Cut 35, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 35A",
+          "email": "customer35a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Koel Pakhi - Cut 35"
+        },
+        {
+          "name": "Customer 35B",
+          "email": "customer35b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Koel Pakhi - Cut 35"
+        }
+      ]
+    },
+    "images": [
+      "koel_pakhi_-_cut_35_img2.jpg",
+      "koel_pakhi_-_cut_35_img3.jpg",
+      "koel_pakhi_-_cut_35_img4.jpg"
+    ]
+  },
+  {
+    "name": "Goru Mangsho - Cut 36",
+    "type": "Beef",
+    "cut_type": "Curry Cut",
+    "animal_source": "Cow",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 850,
+    "stock_quantity": 195,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Goru Mangsho - Cut 36, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 36A",
+          "email": "customer36a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Goru Mangsho - Cut 36"
+        },
+        {
+          "name": "Customer 36B",
+          "email": "customer36b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Goru Mangsho - Cut 36"
+        }
+      ]
+    },
+    "images": [
+      "goru_mangsho_-_cut_36_img2.jpg",
+      "goru_mangsho_-_cut_36_img3.jpg",
+      "goru_mangsho_-_cut_36_img4.jpg"
+    ]
+  },
+  {
+    "name": "Khashi Mangsho - Cut 37",
+    "type": "Mutton",
+    "cut_type": "Curry Cut",
+    "animal_source": "Goat",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 860,
+    "stock_quantity": 200,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Khashi Mangsho - Cut 37, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 37A",
+          "email": "customer37a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Khashi Mangsho - Cut 37"
+        },
+        {
+          "name": "Customer 37B",
+          "email": "customer37b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Khashi Mangsho - Cut 37"
+        }
+      ]
+    },
+    "images": [
+      "khashi_mangsho_-_cut_37_img2.jpg",
+      "khashi_mangsho_-_cut_37_img3.jpg",
+      "khashi_mangsho_-_cut_37_img4.jpg"
+    ]
+  },
+  {
+    "name": "Beda Mangsho - Cut 38",
+    "type": "Sheep",
+    "cut_type": "Curry Cut",
+    "animal_source": "Sheep",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 870,
+    "stock_quantity": 205,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Beda Mangsho - Cut 38, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 38A",
+          "email": "customer38a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Beda Mangsho - Cut 38"
+        },
+        {
+          "name": "Customer 38B",
+          "email": "customer38b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Beda Mangsho - Cut 38"
+        }
+      ]
+    },
+    "images": [
+      "beda_mangsho_-_cut_38_img2.jpg",
+      "beda_mangsho_-_cut_38_img3.jpg",
+      "beda_mangsho_-_cut_38_img4.jpg"
+    ]
+  },
+  {
+    "name": "Mohish Mangsho - Cut 39",
+    "type": "Buffalo",
+    "cut_type": "Curry Cut",
+    "animal_source": "Buffalo",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 880,
+    "stock_quantity": 210,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Mohish Mangsho - Cut 39, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 39A",
+          "email": "customer39a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Mohish Mangsho - Cut 39"
+        },
+        {
+          "name": "Customer 39B",
+          "email": "customer39b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Mohish Mangsho - Cut 39"
+        }
+      ]
+    },
+    "images": [
+      "mohish_mangsho_-_cut_39_img2.jpg",
+      "mohish_mangsho_-_cut_39_img3.jpg",
+      "mohish_mangsho_-_cut_39_img4.jpg"
+    ]
+  },
+  {
+    "name": "Horin Mangsho - Cut 40",
+    "type": "Venison",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deer",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 890,
+    "stock_quantity": 215,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Horin Mangsho - Cut 40, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 40A",
+          "email": "customer40a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Horin Mangsho - Cut 40"
+        },
+        {
+          "name": "Customer 40B",
+          "email": "customer40b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Horin Mangsho - Cut 40"
+        }
+      ]
+    },
+    "images": [
+      "horin_mangsho_-_cut_40_img2.jpg",
+      "horin_mangsho_-_cut_40_img3.jpg",
+      "horin_mangsho_-_cut_40_img4.jpg"
+    ]
+  },
+  {
+    "name": "Deshi Murgi - Cut 41",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deshi Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 900,
+    "stock_quantity": 220,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Deshi Murgi - Cut 41, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 41A",
+          "email": "customer41a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Deshi Murgi - Cut 41"
+        },
+        {
+          "name": "Customer 41B",
+          "email": "customer41b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Deshi Murgi - Cut 41"
+        }
+      ]
+    },
+    "images": [
+      "deshi_murgi_-_cut_41_img2.jpg",
+      "deshi_murgi_-_cut_41_img3.jpg",
+      "deshi_murgi_-_cut_41_img4.jpg"
+    ]
+  },
+  {
+    "name": "Broiler Murgi - Cut 42",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Broiler Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 910,
+    "stock_quantity": 225,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Broiler Murgi - Cut 42, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 42A",
+          "email": "customer42a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Broiler Murgi - Cut 42"
+        },
+        {
+          "name": "Customer 42B",
+          "email": "customer42b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Broiler Murgi - Cut 42"
+        }
+      ]
+    },
+    "images": [
+      "broiler_murgi_-_cut_42_img2.jpg",
+      "broiler_murgi_-_cut_42_img3.jpg",
+      "broiler_murgi_-_cut_42_img4.jpg"
+    ]
+  },
+  {
+    "name": "Shonali Murgi - Cut 43",
+    "type": "Chicken",
+    "cut_type": "Curry Cut",
+    "animal_source": "Shonali Chicken",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 920,
+    "stock_quantity": 230,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Shonali Murgi - Cut 43, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 43A",
+          "email": "customer43a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Shonali Murgi - Cut 43"
+        },
+        {
+          "name": "Customer 43B",
+          "email": "customer43b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Shonali Murgi - Cut 43"
+        }
+      ]
+    },
+    "images": [
+      "shonali_murgi_-_cut_43_img2.jpg",
+      "shonali_murgi_-_cut_43_img3.jpg",
+      "shonali_murgi_-_cut_43_img4.jpg"
+    ]
+  },
+  {
+    "name": "Hash - Cut 44",
+    "type": "Duck",
+    "cut_type": "Curry Cut",
+    "animal_source": "Duck",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 930,
+    "stock_quantity": 235,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Hash - Cut 44, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 44A",
+          "email": "customer44a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Hash - Cut 44"
+        },
+        {
+          "name": "Customer 44B",
+          "email": "customer44b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Hash - Cut 44"
+        }
+      ]
+    },
+    "images": [
+      "hash_-_cut_44_img2.jpg",
+      "hash_-_cut_44_img3.jpg",
+      "hash_-_cut_44_img4.jpg"
+    ]
+  },
+  {
+    "name": "Koel Pakhi - Cut 45",
+    "type": "Bird",
+    "cut_type": "Whole",
+    "animal_source": "Quail",
+    "weight_unit": "piece",
+    "min_order": 1,
+    "price_per_unit": 940,
+    "stock_quantity": 240,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Box",
+    "origin": "Local Farm",
+    "preservation": "Fresh",
+    "expiry_days": 2,
+    "description": "This is a detailed 200-word description for Koel Pakhi - Cut 45, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 45A",
+          "email": "customer45a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Koel Pakhi - Cut 45"
+        },
+        {
+          "name": "Customer 45B",
+          "email": "customer45b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Koel Pakhi - Cut 45"
+        }
+      ]
+    },
+    "images": [
+      "koel_pakhi_-_cut_45_img2.jpg",
+      "koel_pakhi_-_cut_45_img3.jpg",
+      "koel_pakhi_-_cut_45_img4.jpg"
+    ]
+  },
+  {
+    "name": "Goru Mangsho - Cut 46",
+    "type": "Beef",
+    "cut_type": "Curry Cut",
+    "animal_source": "Cow",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 950,
+    "stock_quantity": 245,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Goru Mangsho - Cut 46, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.0,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 46A",
+          "email": "customer46a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Goru Mangsho - Cut 46"
+        },
+        {
+          "name": "Customer 46B",
+          "email": "customer46b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Goru Mangsho - Cut 46"
+        }
+      ]
+    },
+    "images": [
+      "goru_mangsho_-_cut_46_img2.jpg",
+      "goru_mangsho_-_cut_46_img3.jpg",
+      "goru_mangsho_-_cut_46_img4.jpg"
+    ]
+  },
+  {
+    "name": "Khashi Mangsho - Cut 47",
+    "type": "Mutton",
+    "cut_type": "Curry Cut",
+    "animal_source": "Goat",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 960,
+    "stock_quantity": 250,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Khashi Mangsho - Cut 47, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.1,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 47A",
+          "email": "customer47a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Khashi Mangsho - Cut 47"
+        },
+        {
+          "name": "Customer 47B",
+          "email": "customer47b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Khashi Mangsho - Cut 47"
+        }
+      ]
+    },
+    "images": [
+      "khashi_mangsho_-_cut_47_img2.jpg",
+      "khashi_mangsho_-_cut_47_img3.jpg",
+      "khashi_mangsho_-_cut_47_img4.jpg"
+    ]
+  },
+  {
+    "name": "Beda Mangsho - Cut 48",
+    "type": "Sheep",
+    "cut_type": "Curry Cut",
+    "animal_source": "Sheep",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 970,
+    "stock_quantity": 255,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Beda Mangsho - Cut 48, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 48A",
+          "email": "customer48a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Beda Mangsho - Cut 48"
+        },
+        {
+          "name": "Customer 48B",
+          "email": "customer48b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Beda Mangsho - Cut 48"
+        }
+      ]
+    },
+    "images": [
+      "beda_mangsho_-_cut_48_img2.jpg",
+      "beda_mangsho_-_cut_48_img3.jpg",
+      "beda_mangsho_-_cut_48_img4.jpg"
+    ]
+  },
+  {
+    "name": "Mohish Mangsho - Cut 49",
+    "type": "Buffalo",
+    "cut_type": "Curry Cut",
+    "animal_source": "Buffalo",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 980,
+    "stock_quantity": 260,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Mohish Mangsho - Cut 49, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": true,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 49A",
+          "email": "customer49a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Mohish Mangsho - Cut 49"
+        },
+        {
+          "name": "Customer 49B",
+          "email": "customer49b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Mohish Mangsho - Cut 49"
+        }
+      ]
+    },
+    "images": [
+      "mohish_mangsho_-_cut_49_img2.jpg",
+      "mohish_mangsho_-_cut_49_img3.jpg",
+      "mohish_mangsho_-_cut_49_img4.jpg"
+    ]
+  },
+  {
+    "name": "Horin Mangsho - Cut 50",
+    "type": "Venison",
+    "cut_type": "Curry Cut",
+    "animal_source": "Deer",
+    "weight_unit": "kg",
+    "min_order": 1,
+    "price_per_unit": 990,
+    "stock_quantity": 265,
+    "freshness": "Same Day Cut",
+    "processing_type": "Halal",
+    "packaging": "Vacuum Packed",
+    "origin": "Local Farm",
+    "preservation": "Chilled",
+    "expiry_days": 3,
+    "description": "This is a detailed 200-word description for Horin Mangsho - Cut 50, fresh, premium quality, high protein, low fat, easy to cook, ideal for family dinner, festive occasion, Bengali traditional dishes, flavorful and tender meat, hygienically processed, fully halal, natural feed, safe, nutritious, kitchen ready, soft and juicy, aromatic, popular among customers, perfect for curry, bhuna, roast, or special recipe, daily fresh delivery, customer satisfaction guaranteed, premium grade meat, balanced nutrition, rich taste, high demand product, easy to prepare, suitable for kids and adults, long simmering friendly, preservative free, authentic flavor, healthy choice, traditional and modern cooking compatible, soft texture maintained, rich aroma, family favorite, festive menu friendly, protein packed, vitamins and minerals abundant, soft and tender, quick cooking possible, excellent aroma, traditional recipes compatible, healthy family meal, premium quality meat, reliable source, aromatic flavor, soft juicy texture, high customer satisfaction, natural taste maintained, easy meal preparation, long shelf life under proper refrigeration, soft texture, premium grade, authentic taste, kitchen ready, delicious aroma, tender and soft, flavorful, balanced nutritional value, high protein, low fat, ideal for special occasions, trusted farm source, safe and fresh, family friendly, aromatic taste, premium deshi breed, excellent quality, ready for traditional dishes, soft and juicy, high quality, nutritious, flavorful, easy to cook, delicious family meal, healthy protein source, perfect flavor, aromatic dishes, festive cooking, premium farm meat.",
+    "is_organic": false,
+    "availability": true,
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 50A",
+          "email": "customer50a@example.com",
+          "rating": 5,
+          "date": "2026-01-15",
+          "product_name": "Horin Mangsho - Cut 50"
+        },
+        {
+          "name": "Customer 50B",
+          "email": "customer50b@example.com",
+          "rating": 4,
+          "date": "2026-01-16",
+          "product_name": "Horin Mangsho - Cut 50"
+        }
+      ]
+    },
+    "images": [
+      "horin_mangsho_-_cut_50_img2.jpg",
+      "horin_mangsho_-_cut_50_img3.jpg",
+      "horin_mangsho_-_cut_50_img4.jpg"
+    ]
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Rui Fish",
+    "species": "Rui",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 200,
+    "stock_quantity": 50,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Rui fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "rui_img1.jpg",
+      "rui_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 1A",
+          "email": "customer1a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Rui Fish"
+        },
+        {
+          "name": "Customer 1B",
+          "email": "customer1b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Rui Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Katla Fish",
+    "species": "Katla",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 210,
+    "stock_quantity": 55,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Katla fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "katla_img1.jpg",
+      "katla_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 2A",
+          "email": "customer2a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Katla Fish"
+        },
+        {
+          "name": "Customer 2B",
+          "email": "customer2b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Katla Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mrigel Fish",
+    "species": "Mrigel",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 220,
+    "stock_quantity": 60,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Mrigel fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "mrigel_img1.jpg",
+      "mrigel_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 3A",
+          "email": "customer3a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Mrigel Fish"
+        },
+        {
+          "name": "Customer 3B",
+          "email": "customer3b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Mrigel Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Boro Chital Fish",
+    "species": "Boro Chital",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 230,
+    "stock_quantity": 65,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Boro Chital fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "boro_chital_img1.jpg",
+      "boro_chital_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 4A",
+          "email": "customer4a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Boro Chital Fish"
+        },
+        {
+          "name": "Customer 4B",
+          "email": "customer4b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Boro Chital Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Boal Fish",
+    "species": "Boal",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 240,
+    "stock_quantity": 70,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Boal fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "boal_img1.jpg",
+      "boal_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.9,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 5A",
+          "email": "customer5a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Boal Fish"
+        },
+        {
+          "name": "Customer 5B",
+          "email": "customer5b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Boal Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Air Fish",
+    "species": "Air",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 250,
+    "stock_quantity": 75,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Air fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "air_img1.jpg",
+      "air_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 6A",
+          "email": "customer6a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Air Fish"
+        },
+        {
+          "name": "Customer 6B",
+          "email": "customer6b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Air Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kalibaus Fish",
+    "species": "Kalibaus",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 260,
+    "stock_quantity": 80,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Kalibaus fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "kalibaus_img1.jpg",
+      "kalibaus_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 7A",
+          "email": "customer7a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Kalibaus Fish"
+        },
+        {
+          "name": "Customer 7B",
+          "email": "customer7b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Kalibaus Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Baghair Fish",
+    "species": "Baghair",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 270,
+    "stock_quantity": 85,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Baghair fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "baghair_img1.jpg",
+      "baghair_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 8A",
+          "email": "customer8a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Baghair Fish"
+        },
+        {
+          "name": "Customer 8B",
+          "email": "customer8b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Baghair Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Grass Carp Fish",
+    "species": "Grass Carp",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 280,
+    "stock_quantity": 90,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Grass Carp fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "grass_carp_img1.jpg",
+      "grass_carp_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 9A",
+          "email": "customer9a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Grass Carp Fish"
+        },
+        {
+          "name": "Customer 9B",
+          "email": "customer9b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Grass Carp Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Silver Carp Fish",
+    "species": "Silver Carp",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 290,
+    "stock_quantity": 95,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Silver Carp fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "silver_carp_img1.jpg",
+      "silver_carp_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.9,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 10A",
+          "email": "customer10a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Silver Carp Fish"
+        },
+        {
+          "name": "Customer 10B",
+          "email": "customer10b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Silver Carp Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bighead Carp Fish",
+    "species": "Bighead Carp",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 300,
+    "stock_quantity": 100,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Bighead Carp fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "bighead_carp_img1.jpg",
+      "bighead_carp_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 11A",
+          "email": "customer11a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Bighead Carp Fish"
+        },
+        {
+          "name": "Customer 11B",
+          "email": "customer11b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Bighead Carp Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Carpio Fish",
+    "species": "Carpio",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 310,
+    "stock_quantity": 105,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Carpio fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "carpio_img1.jpg",
+      "carpio_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 12A",
+          "email": "customer12a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Carpio Fish"
+        },
+        {
+          "name": "Customer 12B",
+          "email": "customer12b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Carpio Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thai Sarputi Fish",
+    "species": "Thai Sarputi",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 320,
+    "stock_quantity": 110,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Thai Sarputi fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "thai_sarputi_img1.jpg",
+      "thai_sarputi_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 13A",
+          "email": "customer13a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Thai Sarputi Fish"
+        },
+        {
+          "name": "Customer 13B",
+          "email": "customer13b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Thai Sarputi Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thai Pangash Fish",
+    "species": "Thai Pangash",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 330,
+    "stock_quantity": 115,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Thai Pangash fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "thai_pangash_img1.jpg",
+      "thai_pangash_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 14A",
+          "email": "customer14a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Thai Pangash Fish"
+        },
+        {
+          "name": "Customer 14B",
+          "email": "customer14b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Thai Pangash Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mozambique Tilapia Fish",
+    "species": "Mozambique Tilapia",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 340,
+    "stock_quantity": 120,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Mozambique Tilapia fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "mozambique_tilapia_img1.jpg",
+      "mozambique_tilapia_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.9,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 15A",
+          "email": "customer15a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Mozambique Tilapia Fish"
+        },
+        {
+          "name": "Customer 15B",
+          "email": "customer15b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Mozambique Tilapia Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nile Tilapia Fish",
+    "species": "Nile Tilapia",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 350,
+    "stock_quantity": 125,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Nile Tilapia fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "nile_tilapia_img1.jpg",
+      "nile_tilapia_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 16A",
+          "email": "customer16a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Nile Tilapia Fish"
+        },
+        {
+          "name": "Customer 16B",
+          "email": "customer16b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Nile Tilapia Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kechki Fish",
+    "species": "Kechki",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 360,
+    "stock_quantity": 130,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Kechki fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "kechki_img1.jpg",
+      "kechki_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 17A",
+          "email": "customer17a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Kechki Fish"
+        },
+        {
+          "name": "Customer 17B",
+          "email": "customer17b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Kechki Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chapila Fish",
+    "species": "Chapila",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 370,
+    "stock_quantity": 135,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Chapila fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "chapila_img1.jpg",
+      "chapila_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 18A",
+          "email": "customer18a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Chapila Fish"
+        },
+        {
+          "name": "Customer 18B",
+          "email": "customer18b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Chapila Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mola Fish",
+    "species": "Mola",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 380,
+    "stock_quantity": 140,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Mola fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "mola_img1.jpg",
+      "mola_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 19A",
+          "email": "customer19a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Mola Fish"
+        },
+        {
+          "name": "Customer 19B",
+          "email": "customer19b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Mola Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bacha Fish",
+    "species": "Bacha",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 390,
+    "stock_quantity": 145,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Bacha fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "bacha_img1.jpg",
+      "bacha_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.9,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 20A",
+          "email": "customer20a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Bacha Fish"
+        },
+        {
+          "name": "Customer 20B",
+          "email": "customer20b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Bacha Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pabda Fish",
+    "species": "Pabda",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 400,
+    "stock_quantity": 150,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Pabda fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "pabda_img1.jpg",
+      "pabda_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 10,
+      "items": [
+        {
+          "name": "Customer 21A",
+          "email": "customer21a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Pabda Fish"
+        },
+        {
+          "name": "Customer 21B",
+          "email": "customer21b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Pabda Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gulsha Fish",
+    "species": "Gulsha",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 410,
+    "stock_quantity": 155,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Gulsha fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "gulsha_img1.jpg",
+      "gulsha_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 11,
+      "items": [
+        {
+          "name": "Customer 22A",
+          "email": "customer22a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Gulsha Fish"
+        },
+        {
+          "name": "Customer 22B",
+          "email": "customer22b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Gulsha Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tengra Fish",
+    "species": "Tengra",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 420,
+    "stock_quantity": 160,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Tengra fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "tengra_img1.jpg",
+      "tengra_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 12,
+      "items": [
+        {
+          "name": "Customer 23A",
+          "email": "customer23a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Tengra Fish"
+        },
+        {
+          "name": "Customer 23B",
+          "email": "customer23b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Tengra Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Choto Chingri Fish",
+    "species": "Choto Chingri",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 430,
+    "stock_quantity": 165,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Choto Chingri fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "choto_chingri_img1.jpg",
+      "choto_chingri_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 13,
+      "items": [
+        {
+          "name": "Customer 24A",
+          "email": "customer24a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Choto Chingri Fish"
+        },
+        {
+          "name": "Customer 24B",
+          "email": "customer24b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Choto Chingri Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kajuli Fish",
+    "species": "Kajuli",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 440,
+    "stock_quantity": 170,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Kajuli fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "kajuli_img1.jpg",
+      "kajuli_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.9,
+      "total_reviews": 14,
+      "items": [
+        {
+          "name": "Customer 25A",
+          "email": "customer25a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Kajuli Fish"
+        },
+        {
+          "name": "Customer 25B",
+          "email": "customer25b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Kajuli Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Baim Fish",
+    "species": "Baim",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 450,
+    "stock_quantity": 175,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Baim fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "baim_img1.jpg",
+      "baim_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 15,
+      "items": [
+        {
+          "name": "Customer 26A",
+          "email": "customer26a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Baim Fish"
+        },
+        {
+          "name": "Customer 26B",
+          "email": "customer26b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Baim Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Faisa Fish",
+    "species": "Faisa",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 460,
+    "stock_quantity": 180,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Faisa fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "faisa_img1.jpg",
+      "faisa_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 16,
+      "items": [
+        {
+          "name": "Customer 27A",
+          "email": "customer27a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Faisa Fish"
+        },
+        {
+          "name": "Customer 27B",
+          "email": "customer27b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Faisa Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Madhu Pabda Fish",
+    "species": "Madhu Pabda",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 470,
+    "stock_quantity": 185,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Madhu Pabda fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "madhu_pabda_img1.jpg",
+      "madhu_pabda_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 17,
+      "items": [
+        {
+          "name": "Customer 28A",
+          "email": "customer28a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Madhu Pabda Fish"
+        },
+        {
+          "name": "Customer 28B",
+          "email": "customer28b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Madhu Pabda Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Poa Fish",
+    "species": "Poa",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Medium",
+    "min_order": 1,
+    "price_per_unit": 480,
+    "stock_quantity": 190,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Poa fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "poa_img1.jpg",
+      "poa_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 18,
+      "items": [
+        {
+          "name": "Customer 29A",
+          "email": "customer29a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Poa Fish"
+        },
+        {
+          "name": "Customer 29B",
+          "email": "customer29b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Poa Fish"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rui Fish",
+    "species": "Rui",
+    "category": "Fresh",
+    "weight_unit": "kg",
+    "size": "Small",
+    "min_order": 1,
+    "price_per_unit": 490,
+    "stock_quantity": 195,
+    "availability": true,
+    "freshness": "Same Day",
+    "processing_type": "Whole",
+    "preservation": "Chilled",
+    "expiry_days": 2,
+    "packaging": "Ice Box",
+    "origin": "Kaptai Lake",
+    "protein_content": "High",
+    "omega3_content": "Medium",
+    "is_organic": true,
+    "description": "Fresh Rui fish sourced directly from Kaptai Lake. Carefully handled and cleaned to maintain natural freshness and quality. Rich in protein and essential nutrients, ideal for curries, frying, steaming or traditional Bengali recipes. The meat is tender, soft, and aromatic, perfect for family meals and festive dishes. Daily fresh supply ensures premium quality with proper ice-packed preservation. Fully natural and preservative-free. Suitable for both adults and children, healthy, and delicious. Quick or slow-cooked dishes yield flavorful results. Hygienically processed and packaged to maintain freshness. Balanced nutrition, low fat content, and high taste. Premium quality fish from Kaptai Lake, perfect for Bengali fish curry, special meals, and culinary enthusiasts. High customer satisfaction and demand, kitchen ready, soft texture and juicy meat, aromatic flavor maintained.",
+    "images": [
+      "rui_img1.jpg",
+      "rui_img2.jpg"
+    ],
+    "reviews": {
+      "average_rating": 4.9,
+      "total_reviews": 19,
+      "items": [
+        {
+          "name": "Customer 30A",
+          "email": "customer30a@example.com",
+          "rating": 5,
+          "date": "2026-01-20",
+          "product_name": "Rui Fish"
+        },
+        {
+          "name": "Customer 30B",
+          "email": "customer30b@example.com",
+          "rating": 4,
+          "date": "2026-01-21",
+          "product_name": "Rui Fish"
+        }
+      ]
+    }
+  }
+]
